@@ -1,4 +1,5 @@
-<h1> Hello, I'm Lawrence ⎛⎝ ≽  >  ⩊   < ≼ ⎠⎞</h1>
+<h1>⎛⎝ ≽  >  ⩊   < ≼ ⎠⎞</h1>
+<h1> Hello, I am Law</h1> 
 <p> I am a first-year Bachelor of Science in Computer Science student in Pamantansan ng Lungsod ng Muntinlupa, who strives to learn and improve in the programming world.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
@@ -9,14 +10,16 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a></p>
-<h2>I am currently learning and improving my skills in</h2>
+<h2>✨ I am currently learning and improving my skills in: </h2>
   <ul>
     <li>JavaScript</li>
     <li>ReactJS</li>
     <li>Sass</li>
-    <li>and some web3 tools like Solana, Hardhat, and Typescript</li>
+    <li>PHP</li>
+    <li>MySQL</li>
+    <li>and some web3 tools like Solana, Hardhat, and Typescript during my free time ;></li>
   </ul>
-<h2>✒️ Recent Posts</h2>
+<h2>✒️ Recent Projects</h2>
 <ul>
 <li><a target="_blank" href="https://matthew-act546.github.io/event-planner-orgs-plmun/">Collaborated with the creation of PLMun Connect website for our Project in Web Technologies.</a></li>
 <h2>🍵 Where to find me</h2>
