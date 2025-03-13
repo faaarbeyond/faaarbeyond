@@ -9,6 +9,13 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a></p>
+<h2>I am currently learning and improving my skills in</h2>
+  <ul>
+    <li>JavaScript</li>
+    <li>ReactJS</li>
+    <li>Sass</li>
+    <li>and some web3 tools like Solana, Hardhat, and Typescript</li>
+  </ul>
 <h2>✒️ Recent Posts</h2>
 <ul>
 <li><a target="_blank" href="https://matthew-act546.github.io/event-planner-orgs-plmun/">Collaborated with the creation of PLMun Connect website for our Project in Web Technologies.</a></li>
