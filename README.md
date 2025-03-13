@@ -1,4 +1,4 @@
-<h1>⎛⎝ ≽  >  ⩊   < ≼ ⎠⎞</h1>
+<h1 style="text-align:center">⎛⎝ ≽  >  ⩊   < ≼ ⎠⎞</h1>
 <h1> Hello ٩(^ᗜ^ )و ´-</h1>
 <h1>I am Law</h1> 
 <p> A first-year Bachelor of Science in Computer Science student in Pamantansan ng Lungsod ng Muntinlupa, who strives to learn and improve in the programming world.</p>
