@@ -1,5 +1,6 @@
 <h1>⎛⎝ ≽  >  ⩊   < ≼ ⎠⎞</h1>
-<h1> Hello, I am Law</h1> 
+<h1> Hello ٩(^ᗜ^ )و ´-</h1>
+<h1>I am Law</h1> 
 <p> I am a first-year Bachelor of Science in Computer Science student in Pamantansan ng Lungsod ng Muntinlupa, who strives to learn and improve in the programming world.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
